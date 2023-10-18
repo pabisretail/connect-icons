@@ -1,6 +1,6 @@
 {
   "name": "@pabisretail/connect-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Icon components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
