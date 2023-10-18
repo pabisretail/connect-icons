@@ -1,9 +1,6 @@
 {
   "name": "@pabisretail/connect-icons",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/pabisretail"
-  },
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Icon components",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -15,7 +12,8 @@
     "storybook:no-cache": "storybook dev --no-manager-cache -p 6006",
     "build-storybook": "storybook build"
   },
-  "author": "",
+  "git repository": "https://github.com/pabisretail/connect-icons.git",
+  "author": "pabisretail",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.23.2",

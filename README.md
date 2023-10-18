@@ -21,3 +21,7 @@ Execute `npm run build` to run build process and create dist directory in the ro
 
 ## Configuration
 We use this url `https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe#building-your-library` for configure the project
+
+## Install
+
+Execute `yarn add @pabisretail/connect-icons` to install the library on the project
