@@ -1,18 +1,12 @@
+import { IconArrowProps } from 'interfaces/arrow'
 import React from 'react'
 
-interface IconProps {
-  fill?: string
-  width?: string
-  height?: string
-  rotation?: string
-}
-
-const ArrowIcon = ({ fill = '#E8E8EA', width = '16px', height = '8px', rotation = '' }: IconProps) => (
+const DropArrow = ({ fill = '#E8E8EA', width = '24px', height = '24px', rotation = '' }: IconArrowProps) => (
   <svg
     style={rotation !== '' ? { transform: 'rotate(' + rotation + 'deg)' } : { transform: '' }}
     width={width}
     height={height}
-    viewBox='0 0 16 8'
+    viewBox='0 0 24 24'
     version='1.1'
     xmlns='http://www.w3.org/2000/svg'
   >
@@ -28,4 +22,4 @@ const ArrowIcon = ({ fill = '#E8E8EA', width = '16px', height = '8px', rotation 
   </svg>
 )
 
-export default ArrowIcon
+export default DropArrow

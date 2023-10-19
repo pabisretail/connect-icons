@@ -1,28 +1,7 @@
-import React from 'react';
-
-interface IconProps$2 {
-    fillCircle?: string;
-    width?: string;
-    height?: string;
-    fillPath?: string;
-}
-declare const UnselectedWorkspace: ({ fillPath, fillCircle, width, height }: IconProps$2) => React.JSX.Element;
-
-interface IconProps$1 {
-    fillCirle?: string;
-    width?: string;
-    height?: string;
-    fillShadow?: string;
-    opacityCompass?: string;
-}
-declare const SelectedWorkspace: ({ fillCirle, fillShadow, opacityCompass, width, height }: IconProps$1) => React.JSX.Element;
-
-interface IconProps {
-    fill?: string;
-    width?: string;
-    height?: string;
-    rotation?: string;
-}
-declare const ArrowIcon: ({ fill, width, height, rotation }: IconProps) => React.JSX.Element;
-
-export { ArrowIcon, SelectedWorkspace, UnselectedWorkspace };
+export { default as UnselectedWorkspace } from 'icons/workspace/unselected';
+export { default as SelectedWorkspace } from 'icons/workspace/selected';
+export { default as DropArrow } from 'icons/arrow/drop';
+export { default as RangeArrow } from 'icons/arrow/range';
+export { default as UpwardArrow } from 'icons/arrow/upward';
+export { default as DoubleArrow } from 'icons/arrow/double';
+export { default as Arrow } from 'icons/arrow/arrowLine';

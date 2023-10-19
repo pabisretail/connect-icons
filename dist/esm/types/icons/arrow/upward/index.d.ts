@@ -1,3 +1,4 @@
 import React from 'react';
-declare const UpwardArrow: () => React.JSX.Element;
+import { IconArrowProps } from 'interfaces/arrow';
+declare const UpwardArrow: ({ width, height, fill }: IconArrowProps) => React.JSX.Element;
 export default UpwardArrow;
