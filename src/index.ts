@@ -13,6 +13,22 @@ import GroupUser from 'icons/user/group'
 import FillUSer from 'icons/user/fill'
 import OutlinedUser from 'icons/user/outlined'
 
+import Calendar from 'icons/calendar'
+import Catalogue from 'icons/catalogue'
+import Chart from 'icons/chart'
+import Cloud from 'icons/cloud'
+import Delete from 'icons/delete'
+import Download from 'icons/download'
+import Edit from 'icons/edit'
+import Erase from 'icons/erase'
+import Graph from 'icons/graph'
+import Light from 'icons/light'
+import LockOpen from 'icons/lockOpen'
+import Menu from 'icons/menu'
+import Plus from 'icons/plus'
+import Store from 'icons/store'
+import Support from 'icons/support'
+
 export {UnselectedWorkspace}
 export {SelectedWorkspace}
 
@@ -33,3 +49,20 @@ export {InfoAlert}
 export {GroupUser}
 export {FillUSer}
 export {OutlinedUser}
+
+//General
+export {Calendar}
+export {Catalogue}
+export {Chart}
+export {Cloud}
+export {Delete}
+export {Download}
+export {Edit}
+export {Erase}
+export {Graph}
+export {Light}
+export {LockOpen}
+export {Menu}
+export {Plus}
+export {Store}
+export {Support}
