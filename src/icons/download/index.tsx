@@ -8,7 +8,7 @@ const Download = ({width='24px', height='24px', fill='#5C5E72'}: IconProps) => {
     <defs>
         <rect id="path-1" x="0" y="0" width={width} height={height}></rect>
     </defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fillRule="evenodd">
         <g id="Icon/Download">
             <mask id="mask-2" fill="white">
                 <use href="#path-1"></use>
