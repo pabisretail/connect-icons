@@ -1,9 +1,9 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import Delete from './index'
+import Search from './index'
 
-const meta: Meta<typeof Delete> = {
-  title: 'Icon/Delete',
-  component: Delete,
+const meta: Meta<typeof Search> = {
+  title: 'Icon/Search',
+  component: Search,
   tags: ['autodocs'],
   parameters: {
     layout: 'fullscreen'

@@ -17,7 +17,6 @@ import Calendar from 'icons/calendar'
 import Catalogue from 'icons/catalogue'
 import Chart from 'icons/chart'
 import Cloud from 'icons/cloud'
-import Delete from 'icons/delete'
 import Download from 'icons/download'
 import Edit from 'icons/edit'
 import Erase from 'icons/erase'
@@ -38,51 +37,70 @@ import Options from 'icons/options'
 import Settings from 'icons/settings'
 import Visibility from 'icons/visibility'
 import VisibilityOff from 'icons/visibilityOff'
+import Badges from 'icons/badges'
+import CheckCircle from 'icons/checkCircle'
+import Language from 'icons/language'
+import Label from 'icons/label'
+import Search from 'icons/search'
+import SearchOff from 'icons/search/off'
+import Camera from 'icons/camera'
+import Eye from 'icons/eye'
+import Color from 'icons/color'
+import Drag from 'icons/drag'
 
-export {UnselectedWorkspace}
-export {SelectedWorkspace}
+export { UnselectedWorkspace }
+export { SelectedWorkspace }
 
 //arrow
-export {DropArrow}
-export {RangeArrow}
-export {UpwardArrow}
-export {DoubleArrow}
-export {Arrow}
+export { DropArrow }
+export { RangeArrow }
+export { UpwardArrow }
+export { DoubleArrow }
+export { Arrow }
 
 //alerts
-export {SuccessAlert}
-export {WarningAlert}
-export {ErrorAlert}
-export {InfoAlert}
+export { SuccessAlert }
+export { WarningAlert }
+export { ErrorAlert }
+export { InfoAlert }
 
 //user
-export {GroupUser}
-export {FillUSer}
-export {OutlinedUser}
+export { GroupUser }
+export { FillUSer }
+export { OutlinedUser }
 
 //General
-export {Calendar}
-export {Catalogue}
-export {Chart}
-export {Cloud}
-export {Delete}
-export {Download}
-export {Edit}
-export {Erase}
-export {Graph}
-export {Light}
-export {LockOpen}
-export {Menu}
-export {Plus}
-export {Store}
-export {Support}
-export {Close}
-export {Dark}
-export {Favorite}
-export {Home}
-export {Logout}
-export {Notification}
-export {Options}
-export {Settings}
-export {Visibility}
-export {VisibilityOff}
+export { Calendar }
+export { Catalogue }
+export { Chart }
+export { Cloud }
+export { Download }
+export { Edit }
+export { Erase }
+export { Graph }
+export { Light }
+export { LockOpen }
+export { Menu }
+export { Plus }
+export { Store }
+export { Support }
+export { Close }
+export { Dark }
+export { Favorite }
+export { Home }
+export { Logout }
+export { Notification }
+export { Options }
+export { Settings }
+export { Visibility }
+export { VisibilityOff }
+export { Badges }
+export { CheckCircle }
+export { Language }
+export { Label }
+export { Search }
+export { SearchOff }
+export { Camera }
+export { Eye }
+export { Color }
+export { Drag }
