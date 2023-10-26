@@ -47,6 +47,20 @@ import Camera from 'icons/camera'
 import Eye from 'icons/eye'
 import Color from 'icons/color'
 import Drag from 'icons/drag'
+import Delete from 'icons/deleteIcon'
+import File from 'icons/file'
+import Folder from 'icons/folder'
+import Location from 'icons/location'
+import Mail from 'icons/mail'
+import Money from 'icons/money'
+import More from 'icons/more'
+import Pin from 'icons/pin'
+import Print from 'icons/print'
+import Product from 'icons/product'
+import Robot from 'icons/robot'
+import Supermarket from 'icons/supermarket'
+import Update from 'icons/update'
+import Upload from 'icons/upload'
 
 export { UnselectedWorkspace }
 export { SelectedWorkspace }
@@ -104,3 +118,16 @@ export { Camera }
 export { Eye }
 export { Color }
 export { Drag }
+export { Delete }
+export { File }
+export { Folder }
+export { Location }
+export { Money }
+export { More }
+export { Pin }
+export { Print }
+export { Product }
+export { Robot }
+export { Supermarket }
+export { Update }
+export { Upload }
